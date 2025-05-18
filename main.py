@@ -14,14 +14,14 @@ import random
 import threading
 from concurrent.futures import ThreadPoolExecutor
 
-token = 'MTM0NzYxNjg0ODczMjIyOTY0Mw.GNwqrL.rd0UiPBw5OlLowLQtIiJJKjeoTRXSLfrR0836c'
+token = 'put your damn token here'
 botname = 'Brian Moser'
 prefix = ';'
-LASTFM_API_KEY = '46c3105ed459d974002773c981f45db0'
+LASTFM_API_KEY = 'get your own noob'
 USER_DATA_FILE = 'lastfm.json'
 ADMINS_FILE = "admins.json"
 SNIPE_FILE = "snipe.json"
-MY_USER_ID = 1074072238455787601  # Replace with your actual Discord ID
+MY_USER_ID = 1074072238455787601  # Replace with bot owners id
 
 # Custom check to allow only specific users
 def is_me():
